@@ -6,12 +6,12 @@
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/vaishnavi-khurana-841887192/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Vaishnavi, a 20 year old software engineer  working out of New Delhi, India. 
 
 :octocat: I have a soft spot for technology and communities 💖 I am GHC Scholar for the year 2021.  :octocat:! 
 
-💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
+<!-- 💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager.  -->
 
 👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/Vk25/) and always up for quick coding brainstorming sessions! 
 
@@ -25,7 +25,7 @@
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-<!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
+
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
