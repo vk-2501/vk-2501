@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vkhurana50b@gmail.com**
 
-- ⚡ Fun fact **I am Software Engineer but credit goes to google ans stackoverflow.**
+- ⚡ Fun fact **I am Software Engineer but credit goes to google and stackoverflow.**
 
 ## 🚀 Languages and Tools:
 
